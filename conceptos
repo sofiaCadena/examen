@@ -1,0 +1,9 @@
+comandos git: 
+cd hasta carpeta
+git clone
+git checkout -b rama
+cambios
+hacer git checkout main
+git push origin main para traerlo al proyecto
+git merge rama
+git push origin main para llevarlo al repositorio
